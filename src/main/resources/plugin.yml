@@ -1,0 +1,3 @@
+name: PainBall
+version: '${project.version}'
+main: com.foxdev.painball.PainBall
